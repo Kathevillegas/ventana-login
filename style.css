@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&family=Rubik:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    text-align: center;
+    margin-top: 15px;
+    display: grid;
+    border: 1px solid;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    border-radius: 14px;
+    width: 35%;
+    height: 30%;
+    
+    background-color: papayawhip;
+    margin: 50px auto;
+}
+
+.mensaje{
+    margin-top: 4px;
+}
+
+
+/* .logo{
+    height: 0px;
+    width: 0px;
+    text-align: center;
+    display: grid;
+} */
+
+img{
+    height: 100px;
+    width: 90px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
